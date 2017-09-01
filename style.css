@@ -1,0 +1,88 @@
+body {
+  background-color: #505050;
+  margin-top:3%;
+  margin-bottom:3%;
+}
+
+#main {
+  background-color: black;
+  width:95%;
+  height:auto;
+}
+
+h1 {
+  font-family: "Determination Mono";
+  color:white;
+  font-size: 700%;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Determination Mono";
+  text-shadow: 3px 2px 2px;
+  color: white;
+  text-align: center;
+  margin-top:30px;
+  margin-bottom:30px;
+}
+h3 {
+  font-family: "Determination Mono";
+  margin-bottom:70px;
+  margin-top:30px;
+}
+.centered {
+  text-align: center;
+}
+
+.papyrus {
+  font-family:"Undertale Papyrus";
+}
+
+.white {
+  color:white;
+}
+
+.sans {
+  font-family:"Undertale Sans"
+}
+
+.profile-pic {
+  margin: 0px 20px 40px 20px;
+  height:130px;
+  width:130px;
+  border:solid;
+  border-width:5px;
+  border-color:white;
+}
+
+.float-left {
+  float:left;
+}
+
+.float-right {
+  float:right;
+}
+
+h4 {
+  margin-left:5px;
+}
+
+.determination {
+  font-family: "Determination Mono";
+}
+
+.icon {
+  height:30px;
+  width:30px;
+}
+
+footer{
+  color:grey;
+  text-align:center;
+  margin-top:100px;
+}
+
+.center {
+  width:100%;
+  margin:0 auto;
+}
